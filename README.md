@@ -6,7 +6,7 @@ This chatbot application allows you to ask questions about your documentation us
 
 Before you begin, ensure you have the following installed:
 - MongoDB Community Edition
-- Python 3.8 or higher
+- Python 3.10 or higher
 
 ## Setup Instructions
 
