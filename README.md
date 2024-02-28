@@ -77,6 +77,4 @@ streamlit run ask_llm.py
 
 The user interface for the chat application is accessible through Streamlit. Below is a preview of what to expect:
 
-
-
-![alt text](<Screen Recording 2024-02-28 at 22.01.01.gif>)
+https://github.com/Lalith-Sagar-Devagudi/Chat-with-PDF-using-SuperDuperDB/assets/40135491/c43f39fc-6508-47fa-bd73-deae5e32bac7
